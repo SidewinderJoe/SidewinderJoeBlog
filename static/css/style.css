@@ -1,0 +1,48 @@
+.entry-header {
+	font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+	font-weight: 800;
+	font-size: 36px;
+}
+
+.entry-des {
+	font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+	font-weight: 300;
+	font-size: 24px;
+}
+
+.entry-date {
+	color: gray;
+	font-size: 18px;
+	font-style: italic;
+}
+
+
+
+#heading h1 {
+	color: #f2f2f2;
+	text-shadow: 3px 3px black;
+}
+#heading span {
+	color: #f2f2f2;
+	text-shadow: 1px 1px black;
+}
+#about h1 {
+	color: #f2f2f2;
+	text-shadow: 3px 3px black;
+}
+#about span {
+	color: #f2f2f2;
+	text-shadow: 2px 2px black;
+}
+#posts h1 {
+	color: #f2f2f2;
+	text-shadow: 3px 3px black;
+}
+#posts h2 {
+	color: #f2f2f2;
+	text-shadow: 3px 3px black;
+}
+#posts span {
+	color: #f2f2f2;
+	text-shadow: 2px 2px black;
+}
